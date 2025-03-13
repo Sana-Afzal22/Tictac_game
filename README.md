@@ -1,2 +1,1 @@
-# Tictac_game
-tictac
+code of tictac game in c++ 
